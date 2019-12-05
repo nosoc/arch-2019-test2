@@ -1,2 +1,3 @@
 *.xoj
 settings.json
+__pycache__
