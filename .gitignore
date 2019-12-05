@@ -1,3 +1,4 @@
 *.xoj
 settings.json
 __pycache__
+hr_2.db
